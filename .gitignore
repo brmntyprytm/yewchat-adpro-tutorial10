@@ -5,3 +5,5 @@ node_modules
 /wasm-pack.log
 .DS_Store
 .vscode
+
+/.DS_Store
